@@ -1,3 +1,7 @@
 public/
 .idea/
 .Rproj.user
+
+content/.DS_Store
+
+.DS_Store
